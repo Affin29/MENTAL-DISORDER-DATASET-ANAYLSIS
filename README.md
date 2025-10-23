@@ -1,6 +1,5 @@
 # MENTAL-DISORDER-DATASET-ANAYLSIS
 
-#Project Overview
 This project focuses on exploring and analyzing a Mental Disorder Dataset to understand the patterns, correlations, and factors influencing mental health conditions.
 The goal is to gain insights that can help identify early indicators of mental disorders and support mental health awareness through data-driven analysis.
 
@@ -32,4 +31,5 @@ The findings may support awareness campaigns or contribute to early identificati
 
 #Disclaimer
 This dataset and analysis are intended for research and educational purposes only.
-They should not be used for clinical diagnosis or medical decision-making.
+They should not be used for clinical diagnosis or medical decision-making.<img width="887" height="497" alt="LEO" src="https://github.com/user-attachments/assets/760de172-d432-43d1-96cb-336449e36924" />
+
